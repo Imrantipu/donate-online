@@ -6,8 +6,8 @@ body {
 }
 
 .donate-now {
-    background-image: url("/images/donation5.jpg");
-    height: 500px;
+    background-image: url("./images/donation5.jpg");
+    height: 450px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,7 +34,7 @@ h1 {
     padding: 0px;
     color: white;
     text-shadow: 1px 1px 2px #000000;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 .anchor-button {
