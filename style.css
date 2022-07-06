@@ -5,6 +5,7 @@ body {
     }
 }
 
+/* Donate now style start */
 .donate-now {
     background-image: url("./images/donation5.jpg");
     height: 450px;
@@ -44,4 +45,13 @@ h1 {
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+
+/* Donate now style end */
+/* Donate today style start */
+.donate-today-text {
+    text-align: center;
+    margin-top: 80px;
+    margin-right: 230px;
+    margin-left: 230px;
 }
