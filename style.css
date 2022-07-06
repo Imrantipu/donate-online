@@ -48,6 +48,8 @@ h1 {
 }
 
 /* Donate now style end */
+
+/* Donate Today section style */
 .donate-today-text {
     margin-top: 90px;
     text-align: center;
@@ -55,7 +57,7 @@ h1 {
     margin-right: 220px;
 }
 
-.tk-style {
+.money {
     display: flex;
     justify-content: center;
 }
@@ -76,14 +78,41 @@ h1 {
     padding: 30px;
 }
 
-.hr-style {
+.horizontal-line {
     margin-left: 240px;
     margin-right: 240px;
     margin-top: 0;
 }
 
-.btn-style {
+.button {
     text-align: center;
 }
 
 /* Donate Today section style end */
+
+/* our donate plan style start */
+.food-for-family {
+    border-radius: 5px;
+    margin: 25px 25px 25px 25px;
+    background-color: #d6dbdf;
+    padding: 30px;
+    height: 250px;
+}
+
+.shelter-for-family {
+    border-radius: 5px;
+    margin: 25px 25px 25px 25px;
+    background-color: #aed6f1;
+    padding: 30px;
+    height: 250px;
+}
+
+.child-education {
+    border-radius: 5px;
+    margin: 25px 25px 25px 25px;
+    background-color: #9b59b6;
+    padding: 30px;
+    height: 250px;
+}
+
+/* our donate plan style start */
