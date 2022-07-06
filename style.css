@@ -48,10 +48,42 @@ h1 {
 }
 
 /* Donate now style end */
-/* Donate today style start */
 .donate-today-text {
+    margin-top: 90px;
     text-align: center;
-    margin-top: 80px;
-    margin-right: 230px;
-    margin-left: 230px;
+    margin-left: 220px;
+    margin-right: 220px;
 }
+
+.tk-style {
+    display: flex;
+    justify-content: center;
+}
+
+.money-box {
+    border-radius: 5px;
+    margin: 30px 30px 30px 30px;
+    background-color: #fbfcfc;
+    padding: 30px;
+}
+
+#money-id {
+    border: 1px solid tomato;
+    border-radius: 5px;
+    margin: 30px 30px 30px 30px;
+    background-color: #fbfcfc;
+    color: tomato;
+    padding: 30px;
+}
+
+.hr-style {
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 0;
+}
+
+.btn-style {
+    text-align: center;
+}
+
+/* Donate Today section style end */
