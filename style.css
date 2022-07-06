@@ -115,4 +115,52 @@ h1 {
     height: 250px;
 }
 
-/* our donate plan style start */
+/* our donate plan style end */
+/* get my updates start*/
+.get-text-style {
+    font-size: 25px;
+}
+
+.input-design {
+    background-color: #f9ebea;
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 150px;
+    margin-bottom: 100px;
+}
+
+.input-style {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.email-input {
+    padding: 11px;
+    border-radius: 5px;
+    background-color: #cacfd2;
+}
+
+/* get my updates end*/
+
+/* footer style start */
+.footer-style {
+    background-color: black;
+    height: 180px;
+}
+
+.footer-text-para {
+    text-align: center;
+    color: tomato;
+    font-family: "Gentium Book Plus", serif;
+    font-size: 20px;
+    padding-top: 25px;
+}
+
+.footer-text-style {
+    text-align: center;
+    color: white;
+    padding-bottom: 40px;
+    font-size: 10px;
+}
+
+/* footer style end 
