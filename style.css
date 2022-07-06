@@ -13,7 +13,7 @@ body {
     background-size: cover;
     position: relative;
     color: white;
-
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .hero-text {
@@ -23,6 +23,8 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    text-shadow: 1px 1px 2px #000000;
+
 }
 
 h1 {
@@ -31,6 +33,8 @@ h1 {
     margin: 0px;
     padding: 0px;
     color: white;
+    text-shadow: 1px 1px 2px #000000;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .anchor-button {
