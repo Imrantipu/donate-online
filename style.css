@@ -1,16 +1,18 @@
-<style>body {
-    margin: 0;
-    font-family: sans-serif;
+body {
+    body {
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+    }
 }
 
-.hero-image {
+.donate-now {
     background-image: url("/images/donation5.jpg");
-    background-color: #cccccc;
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+
 }
 
 .hero-text {
@@ -22,4 +24,18 @@
     color: white;
 }
 
-</style>
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.anchor-button {
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
